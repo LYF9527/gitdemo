@@ -1,1 +1,2 @@
 Hello，Git!
+Hello,jack!
